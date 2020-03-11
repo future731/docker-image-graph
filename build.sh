@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t centurylink/image-graph .
+docker build -t future731/image-graph .
